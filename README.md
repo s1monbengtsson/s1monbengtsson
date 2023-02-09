@@ -1,11 +1,11 @@
 # Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
 
 ### 💻 Frontend Developer
-### 🌱 Currently studying Frontend at Medieinstutitet, Malmö
+### 🌱 Currently studying at Medieinstutitet, Malmö
 
 ## Tech Stack
 
-### 
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,mysql,express,prisma,postman&perline=4)](https://skillicons.dev)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1monbengtsson&layout=compact)
 
