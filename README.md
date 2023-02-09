@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-### [![My Skills](https://skills.thijs.gg/icons?i=ts,js, node, html,css,bootstrap)](https://skills.thijs.gg)
+### 
 
 ### 
 
