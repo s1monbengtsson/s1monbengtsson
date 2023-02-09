@@ -9,7 +9,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1monbengtsson&layout=compact)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=dracula)
 
 <!--
 **s1monbengtsson/s1monbengtsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
