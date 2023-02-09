@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
+
+# 💻 Frontend Developer
+# 🌱 Currently studying Frontend at Medieinstutitet, Malmö
+
+## Tech Stack
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=transparent)
 
 <!--
 **s1monbengtsson/s1monbengtsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
