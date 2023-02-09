@@ -5,7 +5,7 @@
 
 ## Tech Stack
 
-### (https://skills.thijs.gg/icons?i=ts,html,css,javascript, typescript)](https://skills.thijs.gg)
+### 
 
 ### 
 
