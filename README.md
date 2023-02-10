@@ -1,4 +1,5 @@
-# Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
+# Hi there 👋 
+## I'm Simon Bengtsson - Frontend Developer 
 
 ##### 💻 Frontend Developer
 ##### 🌱 Currently studying at Medieinstutitet, Malmö
