@@ -9,7 +9,7 @@
 
 ## Stats ⚡️📈
 
-![Simons's GitHub stats] <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1monbengtsson&theme=react&line_height=40&hide=css"/> </a>
+<a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1monbengtsson&theme=react&line_height=40&hide=css"/> </a>
 
 ## 📬 
 ##### dev.simon.bengtsson@gmail.com
