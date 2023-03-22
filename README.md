@@ -3,7 +3,7 @@
 ##### 💻 Frontend Developer
 ##### 🌱 Second term at Medieinstutitet, Malmö
 
-##### 📚 Currently learning: C# and Integration/E2E Testing
+##### 📚 Currently learning: C# .NET and Integration/E2E Testing
 
 
 ## Tech Stack
