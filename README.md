@@ -1,7 +1,10 @@
 # Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
 
 ##### 💻 Frontend Developer
-##### 🌱 Currently studying at Medieinstutitet, Malmö
+##### 🌱 Second term at Medieinstutitet, Malmö
+
+##### 📚 Currently learning: C# and Integration/E2E Testing
+
 
 ## Tech Stack
 
