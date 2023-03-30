@@ -7,7 +7,7 @@
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,mysql,mongodb,express,prisma,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,mysql,mongodb,express,prisma,postman)](https://skillicons.dev)
 
 ## Stats ⚡️📈
 
