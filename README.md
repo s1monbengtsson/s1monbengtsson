@@ -12,7 +12,6 @@
 ## Stats ⚡️📈
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=midnight-purple)
-<br>
 <a href="">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1monbengtsson&layout=compact)](https://github.com/s1monbengtsson/github-readme-stats)</a>
 
 ## 📬 Contact
