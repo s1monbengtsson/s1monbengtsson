@@ -11,11 +11,13 @@
 
 ## Stats ⚡️📈
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=transparent)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=calm)
+<br>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1monbengtsson&theme=react&line_height=40&hide=css"/> </a>
 
 ## 📬 Contact
 ##### dev.simon.bengtsson@gmail.com
+##### s1monbengtsson.netlfy.app
 
 <!--
 **s1monbengtsson/s1monbengtsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
