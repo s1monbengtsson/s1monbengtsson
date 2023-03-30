@@ -1,19 +1,17 @@
 # Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
 
-##### 💻 Frontend Developer
-##### 🌱 Second term at Medieinstitutet, Malmö
-
-##### 📚 Currently learning: React and E2E Testing
+### 💻 Frontend Developer
+#### 🌱 Second term at Medieinstitutet, Malmö
+#### 📚 Currently learning: React and E2E Testing
 
 
 ## Tech Stack
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,mysql,mongodb,express,prisma,postman&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,ts,nodejs,mysql,mongodb,express,prisma,jest,postman&perline=100)](https://skillicons.dev)
 
 ## Stats ⚡️📈
 
 ![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=transparent)
-<br>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1monbengtsson&theme=react&line_height=40&hide=css"/> </a>
 
 ## 📬 Contact
