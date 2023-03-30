@@ -2,7 +2,7 @@
 
 ### 💻 Frontend Developer
 #### 🌱 Second term at Medieinstitutet, Malmö
-#### 📚 Currently learning: React and E2E Testing
+#### 📚 Currently learning: `React`
 
 
 ## Tech Stack
@@ -11,13 +11,13 @@
 
 ## Stats ⚡️📈
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=calm)
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=midnight-purple)
 <br>
 <a href=""> <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=s1monbengtsson&theme=react&line_height=30&hide=css"/> </a>
 
 ## 📬 Contact
 ##### dev.simon.bengtsson@gmail.com
-##### <a href="https://s1monbengtsson.netlify.app/">s1monbengtsson.netlify.app</a>
+##### <a href="https://s1monbengtsson.netlify.app/" target="_blank">s1monbengtsson.netlify.app</a>
 
 <!--
 **s1monbengtsson/s1monbengtsson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
