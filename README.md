@@ -11,8 +11,8 @@
 
 ## Stats ⚡️📈
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=midnight-purple)
-<a href="">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1monbengtsson&layout=compact&theme=midnight-purple)](https://github.com/s1monbengtsson/github-readme-stats)</a>
+![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=s1monbengtsson&show_icons=true&theme=material-palenight)
+<a href="">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=s1monbengtsson&layout=compact&theme=material-palenight)](https://github.com/s1monbengtsson/github-readme-stats)</a>
 
 ## 📬 Contact
 ##### dev.simon.bengtsson@gmail.com
