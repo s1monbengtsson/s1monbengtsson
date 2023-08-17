@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Simon Bengtsson - Frontend Developer 
 
 ### 💻 Frontend Developer
-#### 🌱 Second term at Medieinstitutet, Malmö
 #### 📚 Currently learning: `React`
 
 
